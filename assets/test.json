@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 68,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CoinDesk"
+      },
+      "author": "Jamie Crawley",
+      "title": "BlackRock, ARK 21Shares Cut Bitcoin ETF Fees - CoinDesk",
+      "description": "The SEC is expected to approve multiple ETFs at the same time, meaning the different providers will tussle for market share using fee structure as one of the main weapons.",
+      "url": "https://www.coindesk.com/markets/2024/01/10/blackrock-ark-21shares-cut-bitcoin-etf-fees/",
+      "urlToImage": "https://www.coindesk.com/resizer/zOakjKJmZO0ygxDRPZZzwpTxPrM=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/6O7NSX3KDFEVHCU4LNOVUCTQSI.jpg",
+      "publishedAt": "2024-01-10T11:43:00Z",
+      "content": "Please note that ourprivacy policy,terms of use,cookies, anddo not sell my personal informationhas been updated.\r\nThe leader in news and information on cryptocurrency, digital assets and the future o… [+652 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Tesla Model 3 Upgrade Now Available In North America - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/news/tesla-model-3-upgrade-now-available-in-north-america/",
+      "urlToImage": null,
+      "publishedAt": "2024-01-10T11:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "usa-today",
+        "name": "USA Today"
+      },
+      "author": "USA TODAY",
+      "title": "Mega Millions winning numbers for 1/9/24 drawing; $187 million jackpot - USA TODAY",
+      "description": null,
+      "url": "https://www.usatoday.com/story/money/lottery/2024/01/09/mega-millions-winning-numbers/72168775007/",
+      "urlToImage": null,
+      "publishedAt": "2024-01-10T11:17:41Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Ann C. Logue",
+      "title": "Boomers Haven't Saved Enough for Retirement; Gen Z Will Have to Pay - Business Insider",
+      "description": "Fewer than half of all boomers have saved enough for retirement. They'll be forced to rely on their millennial and Gen Z kids.",
+      "url": "https://www.businessinsider.com/boomers-not-enough-retirement-savings-gen-z-millennials-eldercare-2024-1",
+      "urlToImage": "https://i.insider.com/65944cb2ab6f2ebb11f82a74?width=1200&format=jpeg",
+      "publishedAt": "2024-01-10T10:45:00Z",
+      "content": "The great baby-boomer retirement wave is upon us. According to Census Bureau data, 44% of boomers are at retirement age and millions more are soon to join them. By 2030, the largest generation to ent… [+10345 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Daniella Genovese",
+      "title": "According to Glassdoor, this is the best place to work in 2024 - Fox Business",
+      "description": "Bain & Company has claimed the top spot on Glassdoor's annual best places to work list six times. Its made it onto the list every year alongside Google.",
+      "url": "https://www.foxbusiness.com/lifestyle/according-glassdoor-best-place-to-work-2024",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/01/0/0/Bain-and-Company.jpg?ve=1&tl=1",
+      "publishedAt": "2024-01-10T10:33:00Z",
+      "content": "Global consultancy firm Bain &amp; Company was named the best place to work in 2024, outperforming major heavy hitters in the tech, finance and pharmaceutical industries, according to job review site… [+2400 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Pia Singh, Sophie Kiderlin",
+      "title": "10-year Treasury yield dips below 4% as investors weigh inflation outlook - CNBC",
+      "description": "U.S. Treasury yields fell on Wednesday as investors considered what could be ahead for inflation and how this could affect interest rates and the economy.",
+      "url": "https://www.cnbc.com/2024/01/10/us-treasury-yields-investors-weigh-inflation-outlook.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107353738-1704295294950-gettyimages-1897453129-AFP_349F383.jpeg?v=1704879389&w=1920&h=1080",
+      "publishedAt": "2024-01-10T09:41:23Z",
+      "content": "U.S. Treasury yields fell on Wednesday as investors considered what could be ahead for inflation and how this could affect interest rates and the overall economy.\r\nThe yield on the 10-year Treasury w… [+1470 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Behind the AI hype at this year’s Consumer Electronics Show in Las Vegas | DW News - DW News",
+      "description": "Artificial Intelligence is front and center at this year's Consumer Electronics Show in Las Vegas. It is one of the largest tech events in the world and has ...",
+      "url": "https://www.youtube.com/watch?v=fdI1Ct9ja80",
+      "urlToImage": "https://i.ytimg.com/vi/fdI1Ct9ja80/maxresdefault.jpg",
+      "publishedAt": "2024-01-10T09:15:03Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Juliana Liu",
+      "title": "China claims it has cracked Apple AirDrop’s encryption to identify senders - CNN",
+      "description": "A Chinese tech company has succeeded in cracking the encryption around Apple’s Airdrop wireless file sharing function to identify people who used the feature to send “inappropriate information” in the Beijing subway, according to the city’s Justice Bureau.",
+      "url": "https://www.cnn.com/2024/01/10/tech/china-apple-airdrop-encryption-hnk-intl/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240110000305-apple-store-china-09132023.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-01-10T09:08:42Z",
+      "content": "Editors Note: Sign up for CNNs Meanwhile in China newsletter, which explores what you need to know about the countrys rise and how it impacts the world.\r\nA Chinese tech company has succeeded in crack… [+2007 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Cecile Gutscher, Sujata Rao-Coverley",
+      "title": "Stock Market Today: Dow, S&P Live Updates for January 10 - Bloomberg",
+      "description": "Stocks and bonds steadied with many investors clinging to sidelines ahead of a key US inflation report. Oil prices fell.",
+      "url": "https://www.bloomberg.com/news/articles/2024-01-09/stock-market-today-dow-s-p-live-updates",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ikXFayWgxrJo/v0/1200x800.jpg",
+      "publishedAt": "2024-01-10T08:23:18Z",
+      "content": "Stocks and bonds steadied with many investors clinging to sidelines ahead of a key US inflation report. Oil prices fell. \r\nUS equity futures posted modest gains while Europes Stoxx 600 index erased a… [+194 chars]"
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Qianer Liu",
+      "title": "Chinese companies resort to repurposing Nvidia gaming chips for AI - Financial Times",
+      "description": "US export controls force developers to strip components from PC graphics cards",
+      "url": "https://www.ft.com/content/eeea7c4d-71f0-454f-bd16-b2445cb3bbb0",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F402a9fa0-69d8-4fa6-9b36-1364f47ee0ec.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2024-01-10T05:00:55Z",
+      "content": "Chinese companies are resorting to chips repurposed from standard PC gaming products to develop artificial intelligence tools, after Washington blocked US exports of high-performance processors.\r\nTho… [+4025 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Trump is a Disaster on Every Level, Musk Fights Illegal Drug Claims & Jimmy Adopted a Dog! - Jimmy Kimmel Live",
+      "description": "The University of Michigan beat the University of Washington in the college national championship game, Huskies QB Michael Penix Jr. set himself up for some ...",
+      "url": "https://www.youtube.com/watch?v=5YMI0itzTJA",
+      "urlToImage": "https://i.ytimg.com/vi/5YMI0itzTJA/maxresdefault.jpg",
+      "publishedAt": "2024-01-10T04:45:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": null,
+      "title": "They didn’t have a lot of time to do anything: Aviation safety expert - Fox News",
+      "description": "Aviation safety expert Keith Cianfrani discusses what went wrong on the Alaska Airlines flight on ‘Fox News @ Night.’",
+      "url": "https://www.foxnews.com/video/6344594227112",
+      "urlToImage": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5fa881db-a8da-45bd-ae61-82029d5abeda/9512cc73-936b-4b48-a252-715f29ea904f/1280x720/match/1024/512/image.jpg?ve=1&tl=1",
+      "publishedAt": "2024-01-10T04:43:14Z",
+      "content": "©2024 FOX News Network, LLC. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed. All market data delayed 20 minutes."
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investing.com"
+      },
+      "author": "Ambar Warrick",
+      "title": "Asian stocks dip amid inflation angst; Nikkei surges on dovish BOJ bets By Investing.com - Investing.com",
+      "description": "Asian stocks dip amid inflation angst; Nikkei surges on dovish BOJ bets",
+      "url": "https://www.investing.com/news/stock-market-news/asian-stocks-dip-amid-inflation-angst-nikkei-surges-on-dovish-boj-bets-3270835",
+      "urlToImage": "https://i-invdn-com.investing.com/news/TOKYO-STOCK-EXCHANGE-IN-JAPAN_3_800x533_L_1411905438.jpg",
+      "publishedAt": "2024-01-10T03:20:00Z",
+      "content": "Investing.com-- Most Asian stocks retreated on Wednesday as investors remained on edge over U.S. inflation and early interest rate cuts, while Japan’s Nikkei 225 jumped to a 34-year high amid growing… [+3327 chars]"
+    },
+    {
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "SHAWN CHEN, WYATTE GRANTHAM-PHILIPS",
+      "title": "Hydrogen energy back in the vehicle conversation at CES 2024 - The Associated Press",
+      "description": "While electric vehicles are gaining the lion’s share of the attention for carbon-neutral technology at CES 2024, hydrogen energy has snuck its way back into the conversation thanks to two automotive giants. Hyundai signaled that it could work towards aiding a…",
+      "url": "https://apnews.com/article/ces-2024-car-technology-unveils-7d825a33d810a9b29ebf260404fe81cf",
+      "urlToImage": "https://dims.apnews.com/dims4/default/149b4a2/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F11%2Fad%2Fad58a3595ad80afe04142cf94cfc%2Ffa30aa59ecaa41f08abbd8bf5b0c3b34",
+      "publishedAt": "2024-01-10T02:36:00Z",
+      "content": "LAS VEGAS (AP) While electric vehicles are gaining the lions share of the attention for carbon-neutral technology at CES 2024, hydrogen energy has snuck its way back into the conversation thanks to t… [+3661 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Barron's"
+      },
+      "author": "Joe Light",
+      "title": "SEC Says Bitcoin ETF Wasn’t Approved; X Account Compromised - Barron's",
+      "description": "The Securities and Exchange Commission on Tuesday said its X account was compromised, disavowing a post from moments earlier that said the agency had approved the first Bitcoin exchange-traded funds to come to market",
+      "url": "https://www.barrons.com/articles/bitcoin-sec-approval-etf-news-379e0641",
+      "urlToImage": "https://images.barrons.com/im-92266829/social",
+      "publishedAt": "2024-01-10T01:39:00Z",
+      "content": "Updated Jan 09, 2024, 8:39 pm EST / Original Jan 09, 2024, 4:23 pm EST"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "Rebecca Szkutak",
+      "title": "What happens to Carta now? - TechCrunch",
+      "description": "If a noticeable chunk of Carta startup and venture customers do leave, it would hurt the company's otherwise impressive revenue figures, but that seems unlikely to happen.",
+      "url": "https://techcrunch.com/2024/01/09/what-happens-to-carta-now/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/01/Henry-Ward.jpg?resize=1200,1001",
+      "publishedAt": "2024-01-10T01:09:00Z",
+      "content": "Cap table management startup Carta has been dealing with a PR nightmare for the past couple of days. This isnt Carta’s first public scandal, to be clear, but this new one seemed to cause more of a st… [+1622 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OregonLive"
+      },
+      "author": "Lizzy Acker | The Oregonian/OregonLive",
+      "title": "Man who found iPhone from Alaska Airlines says he searched while killing time before lunch - OregonLive",
+      "description": "Sean Bates was early to meet a friend for lunch in Portland on Sunday, so he decided to take a little detour. He ended up finding an iPhone that fell from the sky.",
+      "url": "https://www.oregonlive.com/portland/2024/01/man-who-found-alaska-airlines-phone-says-he-searched-while-killing-time-before-lunch.html",
+      "urlToImage": "https://www.oregonlive.com/resizer/hSvjA0EW-qJOEvq24JeStjJwZ5o=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/PD7VZWW3PRBL7CLBL2PMGUXVGE.jpeg",
+      "publishedAt": "2024-01-10T00:51:00Z",
+      "content": "Sean Bates was early to meet a friend for lunch in Portland on Sunday, so he decided to take a little detour.\r\nBates, a software developer from Vancouver, had been following the story of the door plu… [+2162 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Investor's Business Daily"
+      },
+      "author": "Investor's Business Daily",
+      "title": "Hewlett Packard Enterprise To Buy Juniper Networks For $14 Billion - Investor's Business Daily",
+      "description": null,
+      "url": "https://www.investors.com/news/technology/hewlett-packard-enterprise-near-deal-to-buy-juniper-network/",
+      "urlToImage": null,
+      "publishedAt": "2024-01-10T00:43:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AnandTech"
+      },
+      "author": "Gavin Bonshor",
+      "title": "Intel Unveils First SDV SoC Family For The Automotive Market at CES 2024 - AnandTech",
+      "description": "Further to Intel&#39;s AI-related announcements surrounding their Meteor Lake SoC and its integrated NPU, the automotive market is another market where Intel expects that...",
+      "url": "https://www.anandtech.com/show/21223/intel-unveils-first-sdv-soc-family-for-the-automotive-market-at-ces-2024",
+      "urlToImage": "https://images.anandtech.com/doci/21223/20240109_151253_678x452.jpg",
+      "publishedAt": "2024-01-10T00:10:00Z",
+      "content": "Further to Intel's AI-related announcements surrounding their Meteor Lake SoC and its integrated NPU, the automotive market is another market where Intel expects that AI can make a big difference. In… [+2525 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "FierceBiotech"
+      },
+      "author": "FierceBiotech",
+      "title": "JPM24: Lilly CEO David Ricks to biotechs: 'We're open for business' - FierceBiotech",
+      "description": null,
+      "url": "https://www.fiercebiotech.com/biotech/jpm24-lilly-ceo-david-ricks-biotechs-were-open-business",
+      "urlToImage": null,
+      "publishedAt": "2024-01-10T00:04:00Z",
+      "content": null
+    }
+  ]
+}
